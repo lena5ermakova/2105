@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_2105</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="2021-03-20 16-39-14.JPG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="2021-03-20 16-39-14.JPG" />
+  </ItemGroup>
+
+</Project>
